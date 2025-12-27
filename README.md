@@ -74,19 +74,19 @@ dataset/
 git clone https://github.com/finnydaniel24/Diabetic-Retinopathy-Screening.git
 cd Diabetic-Retinopathy-Screening
 
-2️⃣ Create virtual environment
+###2️⃣ Create virtual environment
 python -m venv .venv
 source .venv/bin/activate   # macOS/Linux
 # .venv\Scripts\activate    # Windows
 
-3️⃣ Install dependencies
+###3️⃣ Install dependencies
 pip install tensorflow scipy numpy scikit-learn matplotlib pillow jupyter
 
-4️⃣ Run the notebook
+###4️⃣ Run the notebook
 jupyter notebook
 
 
-Open Diabetic_Retinopathy_CNN.ipynb and Run All Cells.
+###Open Diabetic_Retinopathy_CNN.ipynb and Run All Cells.
 
 📊 Evaluation Metrics
 
@@ -135,3 +135,4 @@ GitHub: https://github.com/finnydaniel24
 📜 Disclaimer
 
 This project is intended for educational and research purposes only and should not be used as a medical diagnostic tool.
+
